@@ -1,0 +1,8 @@
+
+[package]
+name = "prime_checker_cli_input"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+

@@ -1,4 +1,5 @@
 Pointers in Rust play a crucial role in managing memory and controlling data access. Rust provides several types of pointers, each with its own set of rules and use cases. Here are the main types of pointers in Rust:
+
 1-References:
 
 >References are the most common way to access data in Rust.
